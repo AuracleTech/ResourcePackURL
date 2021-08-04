@@ -1,0 +1,5 @@
+name: ResourcePackURL
+main: auracle.ResourcePackURL
+version: 1.0
+author: Auracle
+api-version: 1.14

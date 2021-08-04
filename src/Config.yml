@@ -1,0 +1,8 @@
+ResourcePackURL: ""
+
+# It needs to be :
+# 50MB or less
+# requires a ZIP file
+# the link must be a direct Link
+# To disable the plugin just keep it blank like this
+# ResourcePackURL: ""
